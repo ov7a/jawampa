@@ -240,5 +240,5 @@ public class ApplicationError extends WampError {
     public final static String INVALID_CONNECTION_CONFIGURATION = "jawampa.error.invalid_connection_configuration";
     
     /** A scheduler that is not compatible to a particular connection provider was assigned to it */
-    public final static String INCOMATIBLE_SCHEDULER = "jawampa.error.incompatible_scheduler";
+    public final static String INCOMPATIBLE_SCHEDULER = "jawampa.error.incompatible_scheduler";
 }
